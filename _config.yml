@@ -1,7 +1,7 @@
 # Site settings
 title: Roger for Reily
 subtitle: Roger Koch for Reily Township Trustee
-email: kochtrees@gmail.com
+email: kochtrees+rogerforreily@gmail.com
 url: https://rogerforreily.com
 description: "Roger Koch for Reily Township Trustee 2017"
 keywords: "Roger Koch for Reily Township Trustee 2017"
@@ -56,7 +56,6 @@ footer:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 189 Sample Rd
   - line: Oxford, OH 45056
 
 # # Credits content
